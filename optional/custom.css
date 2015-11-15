@@ -1,0 +1,101 @@
+/*!
+ * (c) 2015 Christian Heyer
+ * Licensed under MIT (http://opensource.org/licenses/MIT)
+ */
+/*
+ * Customizable CSS
+ */
+
+/*
+ * customized color schema
+ */
+.altcolor.jqcloud {
+    color: #D33257;
+}
+
+.altcolor.jqcloud a {
+    color: inherit;
+}
+
+.altcolor.jqcloud a:hover {
+    color: #D33257;
+}
+
+.altcolor.jqcloud span.w10 {
+    color: #D33257;
+}
+
+.altcolor.jqcloud span.w9 {
+    color: #3D8EB9;
+}
+
+.altcolor.jqcloud span.w8 {
+    color: #71BA51;
+}
+
+.altcolor.jqcloud span.w7 {
+    color: #FEC606;
+}
+
+.altcolor.jqcloud span.w6 {
+    color: #E75926;
+}
+
+.altcolor.jqcloud span.w5 {
+    color: #edadbb;
+}
+
+.altcolor.jqcloud span.w4 {
+    color: #b1d1e3;
+}
+
+.altcolor.jqcloud span.w3 {
+    color: #c6e3b9;
+}
+
+.altcolor.jqcloud span.w2 {
+    color: #fee89b;
+}
+
+.altcolor.jqcloud span.w1 {
+    color: #f5bca8;
+}
+
+/*
+ * Options Menu
+ */
+#options{
+    height: 50px;
+    width: 50px;
+    display: block;
+    background: url("gear.png");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: contain;
+    position: fixed;
+    right: 0;
+    z-index: 9999;
+}
+#options.white{
+    background: url("gear_white.png");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: contain;
+}
+
+#optionsmenu{
+    color: white;
+    display: block;
+    position: fixed;
+    top: 0;
+    right: 0;
+    z-index: 999;
+    background: #3498db;
+    padding: 20px;
+    border: 1px solid #2980b9;
+    border-radius: 5px;
+}
+
+#optionsmenu.hidden{
+    display: none;
+}

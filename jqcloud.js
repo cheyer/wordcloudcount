@@ -1,8 +1,8 @@
 /*!
  * jQCloud
- * Copyright 2011 Luca Ongaro (http://www.lucaongaro.eu)
- * Copyright 2013 Daniel White (http://www.developerdan.com)
- * Copyright 2014 Damien "Mistic" Sorel (http://www.strangeplanet.fr)
+ * (c) 2011 Luca Ongaro (http://www.lucaongaro.eu)
+ * (c) 2013 Daniel White (http://www.developerdan.com)
+ * (c) 2014 Damien "Mistic" Sorel (http://www.strangeplanet.fr)
  * Licensed under MIT (http://opensource.org/licenses/MIT)
  */
 
